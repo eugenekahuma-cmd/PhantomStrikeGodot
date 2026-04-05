@@ -2,10 +2,8 @@
 [application]
 config/name="PhantomStrike"
 config/description="3D Tactical Mobile Shooter"
-config/version="0.1"
 run/main_scene="res://scenes/Main.tscn"
-config/features=PackedStringArray("4.0", "Mobile")
-config/icon="res://assets/icon.png"
+config/features=PackedStringArray("4.6", "Mobile")
 
 [display]
 window/size/viewport_width=1080
